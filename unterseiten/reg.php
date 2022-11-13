@@ -34,7 +34,7 @@
             </form>
             <div class="text">
                 <p>
-                    Indem du dich registrierst, stimmst du unseren <a href="#">Nutzungsbedingungen</a>, <a href="#">Datenschutzrichtline</a> and <a href="#">Cookie-Richtline</a>.
+                    Indem du dich registrierst, stimmst du unseren <a href="nutzungsbedingungen.php">Nutzungsbedingungen</a>, <a href="datenschutzerklaerung.php">Datenschutzrichtline</a> and <a href="cookie-richtline.php">Cookie-Richtline</a>.
                 </p>
             </div>
         </div>
