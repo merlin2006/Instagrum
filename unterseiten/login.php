@@ -25,10 +25,11 @@
           <img src="../assets/img/instagramlogo.png" alt="instagramLogo" class="instaLogo" />
         </div>
         <div class="inputElement">
-          <input type="text" placeholder="Email" class="inputText"
-          />
-          <input type="password" placeholder="Passwort" class="inputText" />
-          <input type="submit" value="Anmelden" class="inputButton" />
+          <form action="#">
+            <input type="text" placeholder="Email" class="inputText"/>
+            <input type="password" placeholder="Passwort" class="inputText" />
+            <input type="submit" value="Anmelden" class="inputButton" />
+          </form>
           <div class="line">
             <span class="arrow"></span>
             <span class="content">Oder</span>
