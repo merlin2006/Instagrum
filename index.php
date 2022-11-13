@@ -8,7 +8,7 @@
 </head>
 <body>
 <?php 
-header("Location: http://localhost/php/instagrum/unterseiten/login-reg/index.php");
+header("Location: http://3521.webhost-03.my-host.network/unterseiten/login.php");
 ?>
 </body>
 </html>
