@@ -23,30 +23,18 @@
             </div>
             <form>
                 <div class="form_group">
-                    <input type="text" required>
-                    <label>
-                        <span>Email</span>
-                    </label>
+                    <input type="text" placeholder="Email" required>
                 </div>
                 <div class="form_group">
-                    <input type="text" required>
-                    <label>
-                        <span>Vollständiger Name</span>
-                    </label>
+                    <input type="text" placeholder="Vollständiger Name" required>
                 </div>
                 <div class="form_group">
-                    <input type="text" required>
-                    <label>
-                        <span>Benutzername</span>
-                    </label>
+                    <input type="text" placeholder="Benutzername" required>
                 </div>
                 <div class="form_group">
-                    <input type="password" required>
-                    <label>
-                        <span>Passwort</span>
-                    </label>
+                    <input type="password" placeholder="Passwort" required>
                 </div>
-                <button>Sign Up</button>
+                <button>Anmelden</button>
             </form>
             <div class="text">
                 <p>
