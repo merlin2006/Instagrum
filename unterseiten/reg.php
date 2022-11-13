@@ -23,16 +23,12 @@
             </div>
             <form>
                 <div class="form_group">
-                    <input type="text" placeholder="Email" required>
-                </div>
-                <div class="form_group">
-                    <input type="text" placeholder="Vollständiger Name" required>
-                </div>
-                <div class="form_group">
-                    <input type="text" placeholder="Benutzername" required>
-                </div>
-                <div class="form_group">
-                    <input type="password" placeholder="Passwort" required>
+                    <form action="">
+                        <input type="text" placeholder="Email" required>
+                        <input type="text" placeholder="Vollständiger Name" required>
+                        <input type="text" placeholder="Benutzername" required>
+                        <input type="password" placeholder="Passwort" required>
+                    </form>
                 </div>
                 <button>Anmelden</button>
             </form>
